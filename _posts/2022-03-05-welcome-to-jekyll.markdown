@@ -2,10 +2,9 @@
 layout: post
 title:  Joonkyu Park's Homepage
 date:   2022-03-05 12:59:49 +0900
-categories: jekyll update
 ---
 
-Jekyll requires blog post files to be named according to the following format:
+I am a master student majoring in computer vision at SNU computer vision lab, advised by Prof. Kyoung Mu Lee.
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
