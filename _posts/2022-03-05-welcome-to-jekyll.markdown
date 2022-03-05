@@ -4,7 +4,7 @@ title:  Joonkyu Park's Homepage
 date:   2022-03-05 12:59:49 +0900
 ---
 
-I am a master student majoring in computer vision at SNU computer vision lab, advised by Prof.  <a href="https://cv.snu.ac.kr/index.php/faculty//">Kyoung Mu Lee.</a>
+I am a master student majoring in computer vision at SNU computer vision lab, advised by <a href="https://cv.snu.ac.kr/index.php/faculty//">Prof. Kyoung Mu Lee.</a>
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
