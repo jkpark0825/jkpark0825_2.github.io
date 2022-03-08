@@ -3,7 +3,7 @@ layout: post
 title:  "Publications"
 date:   2021-02-18 14:59:54 +0900
 ---
-<strong>Joonkyu Park</strong>, Seungjun Nah, and Kyoung Mu Lee, “Recurrence-in-Recurrence Networks for Video Deblurring,” The British Machine Vision Conference (BMVC), 2021.[PDF]({{https://www.bmvc2021-virtualconference.com/assets/papers/0149.pdf}}) [PDF]({{https://github.com/jkpark0825/jkpark0825.github.io}}/papers/bmvc2021/0149.pdf) [Supple]({{https://github.com/jkpark0825/jkpark0825.github.io}}/papers/bmvc2021/0149supp.zip)\\
+<strong>Joonkyu Park</strong>, Seungjun Nah, and Kyoung Mu Lee, “Recurrence-in-Recurrence Networks for Video Deblurring,” The British Machine Vision Conference (BMVC), 2021.[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/0149.pdf)] [PDF]({{https://github.com/jkpark0825/jkpark0825.github.io}}/papers/bmvc2021/0149.pdf) [Supple]({{https://github.com/jkpark0825/jkpark0825.github.io}}/papers/bmvc2021/0149supp.zip)\\
 Hongsuk Choi, Gyeongsik Moon, <strong>Joonkyu Park</strong>, and Kyoung Mu Lee, "3DCrowdNet: 2D Human Pose-Guided3D Crowd Human Pose and Shape Estimation in the Wild," Proc. Computer Vision and Pattern Recognition (CVPR), 2022.[PDF]({{https://github.com/jkpark0825/jkpark0825.github.io}}/papers/arxiv/crowdperson.pdf)\\
 <strong>Joonkyu Park</strong>, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, and Kyoung Mu Lee, “HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network,” Proc. Computer Vision and Pattern Recognition (CVPR), 2022.
 
