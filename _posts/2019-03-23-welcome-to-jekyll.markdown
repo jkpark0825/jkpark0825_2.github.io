@@ -3,7 +3,7 @@ layout: post
 title:  "Personal Information"
 date:   2021-10-18
 ---
-- the master's course
+- the Ph.D's course
 - Department of ECE, SNU, Seoul, Korea
 - email: jkpark0825@snu.ac.kr
 - Google scholor: [[here](https://scholar.google.com/citations?user=anUxIqcAAAAJ&hl=ko)]
