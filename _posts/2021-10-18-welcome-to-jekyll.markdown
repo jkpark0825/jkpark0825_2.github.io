@@ -15,9 +15,7 @@ A New Dataset and Temporal Unfolding", CVPR, 2023. [[paper](https://arxiv.org/pd
 - <strong>Joonkyu Park</strong>, Seungjun Nah, and Kyoung Mu Lee, “Recurrence-in-Recurrence Networks for Video Deblurring”, BMVC, 2021.[[paper](https://www.bmvc2021-virtualconference.com/assets/papers/0149.pdf)] [[supple](https://www.bmvc2021-virtualconference.com/assets/supp/0149_supp.zip)]
 
 ---
-layout: post
 title:  "Academic Services"
-date:   2021-02-18 14:59:54 +0900
 ---
 - <strong> Reviewer: </strong> CVPR 2022, CVPR 2023, ICCV 2023, ICCVW 2023, TVCJ 2023
 
