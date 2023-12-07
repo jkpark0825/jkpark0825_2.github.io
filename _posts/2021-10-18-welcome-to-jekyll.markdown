@@ -3,7 +3,7 @@ layout: post
 title:  "Publications"
 date:   2021-02-18 14:59:54 +0900
 ---
-- <strong><strong>Joonkyu Park </strong>, Cheeun Hong, Sungyong Baik, and Kyoung Mu Lee, "Colanet: Adaptive context
+- <strong>Joonkyu Park </strong>, Cheeun Hong, Sungyong Baik, and Kyoung Mu Lee, "Colanet: Adaptive context
 and latent information blending for face image inpainting", SPL, 2023.
 - <strong>Joonkyu Park* </strong>, Daniel Sungho Jung\*, Gyeongsik Moon\*, and Kyoung Mu Lee, "Extract-and-Adaptation Network for 3D Interacting Hand Mesh Recovery", ICCVW (Oral), 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf)]
 - <strong>Joonkyu Park </strong>, Sanghyun Son, and Kyoung Mu Lee, "Content-Aware Local GAN for Photo-Realistic Super-Resolution", ICCV, 2023. [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.pdf)]
